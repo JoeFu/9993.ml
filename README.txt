@@ -1,10 +1,6 @@
-TITLE: Exclusivity - Free Bootstrap 4 Template
-AUTHOR: Free-Template.co
-LICENSE: Under Creative Commons 3.0 (free-template.co/license)
-Twitter: https://twitter.com/Free_Templateco
+Websit Deisgn for Personal Use Only!
 
-
-CREDITS:
+Here are some useful design URLS:
 
 Bootstrap
 http://getbootstrap.com/
