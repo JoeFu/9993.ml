@@ -1,6 +1,10 @@
-Websit Deisgn for Personal Use Only!
+TITLE: Exclusivity - Free Bootstrap 4 Template
+AUTHOR: Free-Template.co
+LICENSE: Under Creative Commons 3.0 (free-template.co/license)
+Twitter: https://twitter.com/Free_Templateco
 
-Here are some useful design URLS:
+
+CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
